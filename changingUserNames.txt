@@ -1,0 +1,5 @@
+Changing user names can be done using the following command:
+$git config --global user.name 'name'
+
+Changing a users email adress can likewise be changed as so:
+$git config --global user.email 'email@email.com'
