@@ -1,0 +1,2 @@
+Using $touch <filename.extension> we can add a new file to the directory.
+These files could include anything from .js or .txt to .png files any extension will work.
