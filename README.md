@@ -11,3 +11,7 @@ https://github.com/adam-p/markdown-here
 The video that has a crash corse on git and git bash can be found here:
 
 https://www.youtube.com/watch?v=SWYqp7iY_Tc
+
+Here is also another helpful bit of information regarding the conversion of json to dictionary:
+
+https://github.com/toffesource/GodotPlayerInventory/tree/Item-Split/Merge-feature
